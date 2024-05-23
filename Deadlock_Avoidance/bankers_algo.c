@@ -108,23 +108,17 @@ Enter the number of processes in a system: 3
 Enter the number of resources in a system: 3
 
 Enter the number of instances of resource R1: 10
-
 Enter the number of instances of resource R2: 5
-
 Enter the number of instances of resource R3: 7
 
 Enter the allocation matrix: 
 0 1 0
-
 2 0 0
-
 3 0 2
 
 Enter the maximum matrix: 
 7 5 3
-
 3 2 2
-
 9 0 2
 
  Process P1:
@@ -132,18 +126,15 @@ Enter the maximum matrix:
  Allocated: 1   Maximum: 5      Need: 4
  Allocated: 0   Maximum: 3      Need: 3
 
-
  Process P2:
  Allocated: 2   Maximum: 3      Need: 1
  Allocated: 0   Maximum: 2      Need: 2
  Allocated: 0   Maximum: 2      Need: 2
 
-
  Process P3:
  Allocated: 3   Maximum: 9      Need: 6
  Allocated: 0   Maximum: 0      Need: 0
  Allocated: 2   Maximum: 2      Need: 0
-
 
  Availability: R1 5     R2 4    R3 5
  
